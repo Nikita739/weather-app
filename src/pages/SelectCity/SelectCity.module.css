@@ -1,0 +1,9 @@
+.outer {
+    max-width: 70%!important;
+    width: 100%!important;
+}
+
+.selectTitle {
+    text-align: center;
+    margin-bottom: 40px;
+}
